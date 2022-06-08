@@ -8,7 +8,7 @@ I love how every day is a challenge and working with great people who help me gr
 
 
 - 👨🏾‍💻 Currently working as Tech Leader at [Asksuite](https://asksuite.com)
-- 👨🏾‍🎓 Finishing a course in information systems at [UFSC](https://ufsc.br)
+- 👨🏾‍🎓 Bachelor in Information Systems at [UFSC](https://ufsc.br)
 - 🎯 Goal: be a CTO of excellence for some startup 
 
 #### Projects
